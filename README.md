@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue_estudo
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# LoginPageVue
+>>>>>>> 57339e59f4ed8aba370af3c24fc5ab0303985634
